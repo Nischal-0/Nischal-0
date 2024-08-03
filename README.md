@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nischal Dhamala</h1>
 <h3 align="center">A Python with Django enthusiast from Nepal.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nischal-0" alt="nischal-0" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://github.com/Nischal-0?tab=repositories](https://github.com/Nischal-0?tab=repositories)
 
 - 📫 How to reach me **nischaldhamala0@gmail.com**
