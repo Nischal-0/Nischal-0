@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nischal Dhamala</h1>
 <h3 align="center">A Python with Django enthusiast from Nepal.</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Nischal-0?tab=repositories](https://github.com/Nischal-0?tab=repositories)
+- 👨‍💻 All of my projects are available at **[https://github.com/Nischal-0?tab=repositories](https://github.com/Nischal-0?tab=repositories)**
 
 - 📫 How to reach me **nischaldhamala0@gmail.com**
 
-- 📄 Know about my experiences [https://tinyurl.com/nischaldhamala](https://tinyurl.com/nischaldhamala)
+- 📄 Know about my experiences **[https://tinyurl.com/nischaldhamala](https://tinyurl.com/nischaldhamala)**
 
 - ⚡ Fun fact **Let's get connected, cause there's lots.**
 
