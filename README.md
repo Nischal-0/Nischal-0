@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **nischaldhamala0@gmail.com**
 
-- 📄 Know about my experiences [https://rb.gy/1e2pdj](https://rb.gy/1e2pdj)
+- 📄 Know about my experiences [https://tinyurl.com/nischaldhamala](https://tinyurl.com/nischaldhamala)
 
 - ⚡ Fun fact **Let's get connected, cause there's lots.**
 
