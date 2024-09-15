@@ -7,7 +7,7 @@
 
 - 📄 Know about my experiences **[https://tinyurl.com/nischaldhamala](https://tinyurl.com/nischaldhamala)**
 
-- ⚡ Fun fact **Let's get connected, cause there's lotsssssss.**
+- ⚡ Fun fact **Let's get connected, cause there's lotsssss.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
